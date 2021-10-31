@@ -24,3 +24,8 @@ footer {
   
   text-align: center;
 }
+
+img{
+  opacity: .3;
+  width: 100%;
+}
