@@ -12,20 +12,33 @@ body {
   background-color: #808080
 }
 
-.edu{
+.edu {
   
   border-top: 1px solid; 
   border-bottom: 1px solid;
   background-color: #808080
 }
 
+.anahead{
+  
+  line-height: 2px;
+}
+
+.mpdhead{
+  line-height: 2px;
+}
+
+.parkhead{
+  
+  line-height: 2px;
+}
 
 footer {
   
   text-align: center;
 }
 
-img{
+img {
   opacity: .3;
   width: 100%;
 }
